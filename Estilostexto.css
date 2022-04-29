@@ -1,0 +1,25 @@
+﻿.textoEncima {
+    position: absolute;
+    top:575px;
+    left: 300px;
+	color: white;	
+}
+   
+.centrado {
+	position:absolute;
+	top:50%;
+	left:50%;
+	transform: translate(-50%, -50%);
+}
+.container {
+	position: relative;
+	display: inline-block;
+	text-align: center;
+	
+}
+body {
+	background-color: teal;
+}
+
+
+
